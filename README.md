@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @okayGravity
+- 👋 Hello, I’m @okayGravity
 - 👀 I’m interested in all things programming 
-- 🌱 I’m currently learning intro to python through Ed X: CS50 
+- 🌱 I’m currently pursuing my BS in Computer Science through UMGC 
 - 💞️ I’m looking to collaborate on learning projects
 - 📫 How to reach me ... here! or discord = (gra.ahz13)
 
