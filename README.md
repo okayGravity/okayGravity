@@ -1,10 +1,30 @@
-- 👋 Hello, I’m @okayGravity
-- 👀 I’m interested in all things programming 
-- 🌱 I’m currently pursuing my BS in Computer Science through UMGC 
-- 💞️ I’m looking to collaborate on learning projects
-- 📫 How to reach me ... here! or discord = (gra.ahz13)
+# 👋 Hey there! I'm Gabe Hernandez
 
-<!---
-okayGravity/okayGravity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Student @ UMGC  
+🔐 Focused on Cybersecurity   
+💻 Also learning Software & Full-Stack Development  
+🏋️‍♂️ Lifelong learner balancing family, career, and growth
+
+---
+
+### 🧠 What I'm Working On
+- 🔧 Building a **CLI Password Manager** in Java (with AES encryption)
+- 🕵️ Practicing Blue Team security with home labs
+- 🌐 Developing Python based security tools 
+- 🎮 Exploring game development with Unity & C#
+
+---
+
+### 📖 What I'm Reading
+- _Black Hat Python_
+- _Software Engineering at Google_
+- _The Essentials of Computer Organization and Architecture, Fourth Edition_
+
+---
+
+### 🧰 Languages & Tools
+```bash
+💻 Python | Java | JavaScript | HTML/CSS | Bash | SQL  
+🔐 Burp Suite | Wireshark | Nmap | TryHackMe | HackTheBox | Git  
+🌐 React | Node.js | Express | Tailwind | MongoDB  
+☁️ Linux | Kali | Windows | VS Code | GitHub | Netlify
