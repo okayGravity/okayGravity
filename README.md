@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 What I'm Working On
-- 🔧 Building a **CLI Password Manager** in Java (with AES encryption)
+- 🔧 Building a **customizable honeypot deployment tool** using Python
 - 🕵️ Practicing Blue Team security with home labs
 - 🌐 Developing Python based security tools 
 - 🎮 Exploring game development with Unity & C#
