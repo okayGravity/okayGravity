@@ -1,6 +1,6 @@
-# 👋 Hey there! I'm Gabe Hernandez
+# 👋 Hey there! I'm Gabe.
 
-🎓 Computer Science Student @ UMGC  
+🎓 Computer Science Student
 🔐 Focused on Cybersecurity   
 💻 Also learning Software & Full-Stack Development  
 🏋️‍♂️ Lifelong learner balancing family, career, and growth
